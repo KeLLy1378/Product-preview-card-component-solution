@@ -21,4 +21,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - GitHub - [@KeLLy1378](https://github.com/KeLLy1378)
 
 ## Livesite
-- GitHub Pages - 
+- GitHub Pages - https://kelly1378.github.io/Product-preview-card-component-solution/
